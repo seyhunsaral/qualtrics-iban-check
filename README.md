@@ -14,7 +14,7 @@ The validator function is adapted from a [StackOverflow question](https://stacko
 * If necessary, modify the messages defined in the `invalidtext` and `validtext` variables.
 
 
-## License & Notes
+## License & Disclaimer
 This repository (with the exception of screenshots show Qualtrics Interface) is licensed with [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 You are free to:
@@ -27,7 +27,9 @@ Under the following terms:
 
 - ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. k
     
-    
-### Adaptations
-IBAN Checksum Function `validateIbanCheckum(iban)` is adapted from https://stackoverflow.com/a/44657292 by LukStorms CC BY-SA 4.0
-License Descriptions is adapted from https://creativecommons.org/licenses/by-sa/4.0/ CC BY 4.0
+### Notes
+- IBAN Checksum Function `validateIbanCheckum(iban)` is adapted from https://stackoverflow.com/a/44657292 by LukStorms CC BY-SA 4.0
+- License descriptions are adapted from https://creativecommons.org/licenses/by-sa/4.0/ CC BY 4.0
+- Use at your own risk. We are not any liable for any direct or indirect losses, costs, expenses or damages arising out of the use of the code.
+- This repository and the owner has is not related to Qualtics LLC.
+- Screenshots to demonstrate the usage of the code contains the interface of Qualtrics. These interfaces are property of Qualtrics LLC and they are not a part of the license. 
