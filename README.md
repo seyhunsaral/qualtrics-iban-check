@@ -15,7 +15,7 @@ The validator function is adapted from a [StackOverflow question](https://stacko
 
 
 ## License & Disclaimer
-This repository (with the exception of screenshots show Qualtrics Interface) is licensed with [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+This repository (with the exception of `screenshots` directory) is licensed with [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 You are free to:
 - Share — copy and redistribute the material in any medium or format
@@ -32,4 +32,4 @@ Under the following terms:
 - License descriptions are adapted from https://creativecommons.org/licenses/by-sa/4.0/ CC BY 4.0
 - Use at your own risk. We are not any liable for any direct or indirect losses, costs, expenses or damages arising out of the use of the code.
 - This repository and the owner has is not related to Qualtics LLC.
-- Screenshots to demonstrate the usage of the code contains the interface of Qualtrics. These interfaces are property of Qualtrics LLC and they are not a part of the license. 
+- Screenshots in the `screenshots` directory to demonstrate the usage of the code contains the interface of Qualtrics. These interfaces are property of Qualtrics LLC and they are not a part of the license. 
