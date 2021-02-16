@@ -10,7 +10,7 @@ This is a JavaScript code for Qualtrics surveys in order to validate an IBAN cod
 ![Demo text entry question](https://github.com/seyhunsaral/qualtrics-iban-check/blob/main/screenshots/setting1.png)
 * Click on `Advanced Question Options` (wheel icon) and click on add JavaScripts.
 ![Demo text add JavaScript](https://github.com/seyhunsaral/qualtrics-iban-check/blob/main/screenshots/setting2.png)
-* Copy paste the code in `qualtrics-iban-checker.js` in the relevant field.
+* Copy paste the code in `qualtrics-iban-check.js` in the relevant field.
 ![Demo text add JavaScript](https://github.com/seyhunsaral/qualtrics-iban-check/blob/main/screenshots/setting3.png)
 * The rest should work out of the box. Click on `Preview` to test.
 * If necessary, modify the messages defined in the `invalidtext` and `validtext` variables.
