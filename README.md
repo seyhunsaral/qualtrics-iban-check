@@ -1,5 +1,6 @@
 # Qualtrics IBAN Checker 
-by Ali Seyhun Saral - CC BY-SA 4.0 
+written by Ali Seyhun Saral - CC BY-SA 4.0 
+
 This is a JavaScript code for Qualtrics surveys in order to validate an IBAN code using the [checksum](https://en.wikipedia.org/wiki/International_Bank_Account_Number#Validating_the_IBAN) algorithm. 
 
 ![Survey screen demo](https://raw.githubusercontent.com/seyhunsaral/qualtrics-iban-check/main/screenshots/demo.gif)
@@ -26,7 +27,6 @@ You are free to:
 
 Under the following terms:
 - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
 - **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. k
     
 ### Notes
