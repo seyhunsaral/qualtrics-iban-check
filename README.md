@@ -6,16 +6,16 @@ This is a JavaScript code for Qualtrics surveys in order to validate an IBAN cod
 ![Survey screen demo](https://raw.githubusercontent.com/seyhunsaral/qualtrics-iban-check/main/screenshots/demo.gif)
 
 ## Usage
-* Create a text entry question
+* Create a text entry question  
 ![Demo text entry question](https://github.com/seyhunsaral/qualtrics-iban-check/blob/main/screenshots/setting1.png)
-* Click on `Advanced Question Options` (wheel icon) and click on add JavaScripts.
+* Click on `Advanced Question Options` (wheel icon) and click on add JavaScripts.  
 ![Demo text add JavaScript](https://github.com/seyhunsaral/qualtrics-iban-check/blob/main/screenshots/setting2.png)
-* Copy paste the code in `qualtrics-iban-check.js` in the relevant field.
+* Copy paste the code in `qualtrics-iban-check.js` in the relevant field.  
 ![Demo text add JavaScript](https://github.com/seyhunsaral/qualtrics-iban-check/blob/main/screenshots/setting3.png)
-* The rest should work out of the box. Click on `Preview` to test.
-* If necessary, modify the messages defined in the `invalidtext` and `validtext` variables.
+* The rest should work out of the box. Click on `Preview` to test.  
+* If necessary, modify the messages defined in the `invalidtext` and `validtext` variables.  
 
-* The validator function is adapted from a [StackOverflow question](https://stackoverflow.com/a/44657292/1819625), and can be modified if a more advanced check is required or restrict it to a specific country format. 
+* The validator function is adapted from a [StackOverflow question](https://stackoverflow.com/a/44657292/1819625), and can be modified if a more advanced check is required or restrict it to a specific country format.   
 
 ## License & Disclaimer
 This repository (with the exception of `screenshots` directory) is licensed with [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
