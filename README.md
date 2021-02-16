@@ -15,7 +15,7 @@ This is a JavaScript code for Qualtrics surveys in order to validate an IBAN cod
 * The rest should work out of the box. Click on `Preview` to test.
 * If necessary, modify the messages defined in the `invalidtext` and `validtext` variables.
 
-* The validator function is adapted from a [StackOverflow question](https://stackoverflow.com/a/44657292/1819625), and can be modified if a more advanced check is required.
+* The validator function is adapted from a [StackOverflow question](https://stackoverflow.com/a/44657292/1819625), and can be modified if a more advanced check is required or restrict it to a specific country format. 
 
 ## License & Disclaimer
 This repository (with the exception of `screenshots` directory) is licensed with [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
@@ -34,4 +34,4 @@ Under the following terms:
 - License descriptions are adapted from https://creativecommons.org/licenses/by-sa/4.0/ CC BY 4.0
 - Use at your own risk. I am not liable for any direct or indirect losses, costs, expenses or damages arising out of the use of the code.
 - This repository I have no relation with Qualtics LLC.
-- Screenshots in the `screenshots` directory to demonstrate the usage of the code contains the interface of Qualtrics. These interfaces are property of Qualtrics LLC and they are part of the license. 
+- Screenshots in the `screenshots` directory to demonstrate the usage of the code contains the interface of Qualtrics. These interfaces are property of Qualtrics LLC and they are part of the license.
