@@ -33,5 +33,5 @@ Under the following terms:
 - IBAN Checksum Function `validateIbanCheckum(iban)` is adapted from https://stackoverflow.com/a/44657292 by LukStorms CC BY-SA 4.0
 - License descriptions are adapted from https://creativecommons.org/licenses/by-sa/4.0/ CC BY 4.0
 - Use at your own risk. I am not liable for any direct or indirect losses, costs, expenses or damages arising out of the use of the code.
-- This repository I have no relation with Qualtics LLC.
+- This repository or I have no relation with Qualtics LLC.
 - Screenshots in the `screenshots` directory to demonstrate the usage of the code contains the interface of Qualtrics. These interfaces are property of Qualtrics LLC and they are part of the license.
