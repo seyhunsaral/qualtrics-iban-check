@@ -34,4 +34,4 @@ Under the following terms:
 - License descriptions are adapted from https://creativecommons.org/licenses/by-sa/4.0/ CC BY 4.0
 - Use at your own risk. I am not liable for any direct or indirect losses, costs, expenses or damages arising out of the use of the code.
 - This repository or I have no relation with Qualtics LLC.
-- Screenshots in the `screenshots` directory to demonstrate the usage of the code contains the interface of Qualtrics. These interfaces are property of Qualtrics LLC and they are part of the license.
+- Screenshots in the `screenshots` directory to demonstrate the usage of the code contains the interface of Qualtrics. These interfaces are property of Qualtrics LLC and they are not part of the license.
